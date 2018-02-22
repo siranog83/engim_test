@@ -1,0 +1,13 @@
+
+  span.highlight {
+    background: #82e0ff;
+    font-weight: 700;
+
+  }
+
+  .marginetop{margin-top: 6vh;}
+  .margineleft{margin-left: 15px;}
+  .posizsin{margin-left: 10px;}
+  .posiz{display: -webkit-box;}
+
+  body{background-color: yellow;}
